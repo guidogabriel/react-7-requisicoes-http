@@ -14,6 +14,8 @@ Foi criado um custom hook para tratar essas requisições.
 
 `npm start` para abrir o app em uma porta diferente da porta 3000 que vai ser usada pelo server json
 
+Print de tela do app: 
 ![Print do app](/readme/img_app.png)
 
+Print de tela da API:
 ![Print da api](/readme/img_api.png)
